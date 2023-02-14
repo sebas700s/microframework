@@ -17,6 +17,6 @@ $config->set('viewsFolder', 'views/');
 //mysql -hcontainers-us-west-40.railway.app -uroot -pK3fJiO5nhrBk0L3WOzb8 --port 7545 --protocol=TCP railway
 $config->set('dbhost', 'containers-us-west-40.railway.app:7545');
 $config->set('dbname', 'railway');
-$config->set('dbuser', 'uroot');
-$config->set('dbpass', 'pK3fJiO5nhrBk0L3WOzb8');
+$config->set('dbuser', 'root');
+$config->set('dbpass', 'K3fJiO5nhrBk0L3WOzb8');
 ?>
